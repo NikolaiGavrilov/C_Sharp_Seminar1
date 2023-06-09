@@ -1,6 +1,6 @@
-﻿// Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N.
+﻿// Задача 8. Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N.
 
-Console.WriteLine("Enter any number: ");
+Console.WriteLine("Enter any NATURAL NUMBER: ");
 int yourNumber = Convert.ToInt32(Console.ReadLine());
 
 int initialNumber = 1;
